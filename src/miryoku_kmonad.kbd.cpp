@@ -50,7 +50,7 @@
 #elif defined (MIRYOKU_MAPPING_KYRIA_REV3)
   q      w      e      r      t           y      u      i      o      p
   a      s      d      f      g           h      j      k      l      ;
-  z      x      c      v      b           n      m      ,      .      ctrl
+  z      x      c      v      b           n      m      ,      .      leftctrl
                 ent    spc    esc         home   end    tab
 #else
   2      3      4      5      6           8      9      0      -      =
